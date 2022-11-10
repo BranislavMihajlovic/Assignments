@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": 3306,
+    "username": "jadmin",
+    "password": "1234",
+    "database": "kreiranje_shopa",
+    "serverTimezone": "Europe/Belgrade"
+}
